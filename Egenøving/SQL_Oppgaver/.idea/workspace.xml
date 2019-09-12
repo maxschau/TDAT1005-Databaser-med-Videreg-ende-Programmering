@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d07cb942-382a-430b-9a61-81187b5bf114" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="fotballem: schema" type="c314c289:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-338121647">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="sql" value="2053" />
+          <entry key="txt" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="SQL" value="171" />
+          <entry key="Scratch" value="1882" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="SCHEMA:fotballem" value="2" />
+          <entry key="game" value="2" />
+          <entry key="goal" value="1" />
+          <entry key="sql" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Database Element" value="3" />
+          <entry key="SQL" value="1" />
+          <entry key="Scratch" value="1" />
+          <entry key="UML" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.53592235">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/6b37b7a4-480c-4eee-a537-95e35f01bce7/console.sql">
+              <provider selected="true" editor-type-id="text-editor" />
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="das://6b37b7a4-480c-4eee-a537-95e35f01bce7/schema/fotballem/table/game">
+              <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+                <state>
+                  <filtering enabled="true" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/sql.sql">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="510">
+                  <caret line="40" selection-start-line="40" selection-end-line="40" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="uml://DATABASE/6b37b7a4-480c-4eee-a537-95e35f01bce7.SCHEMA:fotballem">
+              <provider selected="true" editor-type-id="UmlEditorProvider">
+                <state>
+                  <ID>DATABASE</ID>
+                  <OriginalElement>6b37b7a4-480c-4eee-a537-95e35f01bce7.SCHEMA:fotballem</OriginalElement>
+                  <nodes>
+                    <node x="0.0" y="146.0">6b37b7a4-480c-4eee-a537-95e35f01bce7.TABLE:fotballem.game</node>
+                    <node x="48.47916666666666" y="336.0">6b37b7a4-480c-4eee-a537-95e35f01bce7.TABLE:fotballem.goal</node>
+                    <node x="27.083333333333314" y="0.0">6b37b7a4-480c-4eee-a537-95e35f01bce7.TABLE:fotballem.eteam</node>
+                  </nodes>
+                  <notes />
+                  <edges>
+                    <edge source="6b37b7a4-480c-4eee-a537-95e35f01bce7.TABLE:fotballem.goal" target="6b37b7a4-480c-4eee-a537-95e35f01bce7.TABLE:fotballem.game">
+                      <point x="-39.25" y="-59.0" />
+                      <point x="87.72916666666666" y="311.0" />
+                      <point x="80.0" y="311.0" />
+                      <point x="0.0" y="70.0" />
+                    </edge>
+                    <edge source="6b37b7a4-480c-4eee-a537-95e35f01bce7.TABLE:fotballem.game" target="6b37b7a4-480c-4eee-a537-95e35f01bce7.TABLE:fotballem.eteam">
+                      <point x="-40.0" y="-70.0" />
+                      <point x="40.0" y="121.0" />
+                      <point x="56.249999999999986" y="121.0" />
+                      <point x="-58.333333333333336" y="48.0" />
+                    </edge>
+                    <edge source="6b37b7a4-480c-4eee-a537-95e35f01bce7.TABLE:fotballem.goal" target="6b37b7a4-480c-4eee-a537-95e35f01bce7.TABLE:fotballem.eteam">
+                      <point x="39.25" y="-59.0" />
+                      <point x="166.22916666666666" y="311.0" />
+                      <point x="170.5" y="311.0" />
+                      <point x="170.5" y="121.0" />
+                      <point x="172.91666666666669" y="121.0" />
+                      <point x="58.33333333333336" y="48.0" />
+                    </edge>
+                  </edges>
+                  <settings layout="Hierarchic Group" zoom="1.0" x="35.5" y="308.5" />
+                  <SelectedNodes>
+                    <node>6b37b7a4-480c-4eee-a537-95e35f01bce7.TABLE:fotballem.eteam</node>
+                  </SelectedNodes>
+                  <Categories>
+                    <Category>Key columns</Category>
+                    <Category>Columns</Category>
+                  </Categories>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/sql.sql" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/6b37b7a4-480c-4eee-a537-95e35f01bce7/console.sql" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1615" />
+    <option name="height" value="880" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SQL_Oppgaver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SQL_Oppgaver" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="database.console.LAST_STATE" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Ovinger/Oving 12" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="2" weight="0.24934895" />
+      <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="1" />
+      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" />
+      <window_info anchor="bottom" id="Run" order="5" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="9" />
+      <window_info active="true" anchor="bottom" id="Database Console" order="10" visible="true" weight="0.32913166" />
+      <window_info anchor="right" id="Database" order="0" visible="true" weight="0.3294271" />
+      <window_info anchor="right" id="Palette&#9;" order="1" />
+      <window_info anchor="right" id="SciView" order="2" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="das://6b37b7a4-480c-4eee-a537-95e35f01bce7/schema/fotballem/table/goal">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/6b37b7a4-480c-4eee-a537-95e35f01bce7/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://6b37b7a4-480c-4eee-a537-95e35f01bce7/schema/fotballem/table/game">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sql.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://DATABASE/6b37b7a4-480c-4eee-a537-95e35f01bce7.SCHEMA:fotballem">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>6b37b7a4-480c-4eee-a537-95e35f01bce7.SCHEMA:fotballem</OriginalElement>
+          <nodes>
+            <node x="0.0" y="146.0">6b37b7a4-480c-4eee-a537-95e35f01bce7.TABLE:fotballem.game</node>
+            <node x="48.47916666666666" y="336.0">6b37b7a4-480c-4eee-a537-95e35f01bce7.TABLE:fotballem.goal</node>
+            <node x="27.083333333333314" y="0.0">6b37b7a4-480c-4eee-a537-95e35f01bce7.TABLE:fotballem.eteam</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="6b37b7a4-480c-4eee-a537-95e35f01bce7.TABLE:fotballem.goal" target="6b37b7a4-480c-4eee-a537-95e35f01bce7.TABLE:fotballem.game">
+              <point x="-39.25" y="-59.0" />
+              <point x="87.72916666666666" y="311.0" />
+              <point x="80.0" y="311.0" />
+              <point x="0.0" y="70.0" />
+            </edge>
+            <edge source="6b37b7a4-480c-4eee-a537-95e35f01bce7.TABLE:fotballem.game" target="6b37b7a4-480c-4eee-a537-95e35f01bce7.TABLE:fotballem.eteam">
+              <point x="-40.0" y="-70.0" />
+              <point x="40.0" y="121.0" />
+              <point x="56.249999999999986" y="121.0" />
+              <point x="-58.333333333333336" y="48.0" />
+            </edge>
+            <edge source="6b37b7a4-480c-4eee-a537-95e35f01bce7.TABLE:fotballem.goal" target="6b37b7a4-480c-4eee-a537-95e35f01bce7.TABLE:fotballem.eteam">
+              <point x="39.25" y="-59.0" />
+              <point x="166.22916666666666" y="311.0" />
+              <point x="170.5" y="311.0" />
+              <point x="170.5" y="121.0" />
+              <point x="172.91666666666669" y="121.0" />
+              <point x="58.33333333333336" y="48.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="35.5" y="308.5" />
+          <SelectedNodes>
+            <node>6b37b7a4-480c-4eee-a537-95e35f01bce7.TABLE:fotballem.eteam</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Key columns</Category>
+            <Category>Columns</Category>
+          </Categories>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

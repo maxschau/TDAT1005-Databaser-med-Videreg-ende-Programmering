@@ -1,0 +1,55 @@
+USE maxts;
+
+create database oving5;
+
+
+CREATE TABLE Borettslag (
+    borettslagsid INTEGER,
+    navn VARCHAR(30) NOT NULL,
+    adresse VARCHAR(30) NOT NULL,
+    anthus INTEGER NOT NULL,
+    etableringsar INTEGER NOT NULL,
+    PRIMARY KEY(borettslagsid)
+);
+
+CREATE TABLE Bygninger (
+    bygningsid INTEGER,
+    adresse VARCHAR(30),
+    antleil INTEGER,
+    antetasjer INTEGER,
+    borettslagsid INTEGER,
+    PRIMARY KEY(bygningsid),
+    FOREIGN KEY(borettslagsid) REFERENCES Borettslag(borettslagsid)
+);
+
+CREATE TABLE Andelseiere (
+	fodselsnummer INTEGER,
+    navn VARCHAR(30),
+    tlf VARCHAR(30),
+    epost VARCHAR(30),
+    PRIMARY KEY(fodselsnummer),
+);
+
+
+CREATE TABLE Leilighet (
+	leilighetsid INTEGER,
+    antrom INTEGER,
+    antm2 INTEGER,
+    bebodd BOOLEAN,
+    bygningsid INTEGER,
+    fodselsnummer INTEGER,
+    PRIMARY KEY(leilighetsid),
+    FOREIGN KEY(bygningsid) REFERENCES Bygninger(bygningsid),
+    FOREIGN KEY (fodselsnummer) REFERENCES Andelseiere(fodselsnummer)
+);
+
+
+//Oppgave D
+INSERT INTO Borettslag(borettslagsid, navn, adresse, anthus, etableringsar)
+VALUES (1, 'Eftasåsen', 'Trasoppveien 25', 4, 1997);
+INSERT INTO `Borettslag`(`borettslagsid`, `navn`, `adresse`, `anthus`, `etableringsar`)
+VALUES (2, 'Godlia', "Galeveien 25",8, 2005);
+
+//Får feilmelding av denne:
+INSERT INTO Borettslag(borettslagsid, navn, adresse, anthus, etableringsar)
+VALUES (1, 'Trasop', 'Kuveien 65', 2, 1994);

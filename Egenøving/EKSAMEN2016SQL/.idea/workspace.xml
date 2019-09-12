@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c20e9105-0daf-4e77-ab13-fc617a27f8ec" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="eks_2019: schema" type="c314c289:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="eks_2019: schema" type="c314c289:MysqlImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="eks_2019: schema" type="c314c289:MysqlImplModel$Schema" />
+        <item name="views" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-748413391">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.14" value="2" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cell" value="732" />
+          <entry key="sql" value="8360" />
+          <entry key="txt" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="5" />
+          <entry key="Scratch" value="9092" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="SCHEMA:eks2017" value="2" />
+          <entry key="SCHEMA:eks2018" value="2" />
+          <entry key="SCHEMA:eks_2019" value="1" />
+          <entry key="SCHEMA:max" value="2" />
+          <entry key="antall_res" value="1" />
+          <entry key="bygning" value="1" />
+          <entry key="campus" value="1" />
+          <entry key="delt" value="1" />
+          <entry key="deltager_finnmark" value="1" />
+          <entry key="deltaker" value="2" />
+          <entry key="etappe" value="2" />
+          <entry key="etasje" value="1" />
+          <entry key="kurs" value="1" />
+          <entry key="kurskjøring" value="1" />
+          <entry key="lop" value="2" />
+          <entry key="lop_etappe" value="2" />
+          <entry key="res_01_jan_14_16" value="2" />
+          <entry key="res_23_mai" value="1" />
+          <entry key="reservasjon" value="1" />
+          <entry key="rom" value="1" />
+          <entry key="romtype" value="1" />
+          <entry key="sertifisering" value="1" />
+          <entry key="sql" value="2" />
+          <entry key="sted" value="2" />
+          <entry key="tidtaking" value="2" />
+          <entry key="vare_kriterium" value="1" />
+          <entry key="vurdering" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Database Element" value="29" />
+          <entry key="Scratch" value="2" />
+          <entry key="UML" value="7" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="das://6d9d7db8-1650-4e4b-a17c-93a6bc906b44/schema/eks_2019/table/bygning">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="das://6d9d7db8-1650-4e4b-a17c-93a6bc906b44/schema/eks_2019/table/etasje">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="das://6d9d7db8-1650-4e4b-a17c-93a6bc906b44/schema/eks_2019/table/rom">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="das://6d9d7db8-1650-4e4b-a17c-93a6bc906b44/schema/eks_2019/table/romtype">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="das://6d9d7db8-1650-4e4b-a17c-93a6bc906b44/schema/eks_2019/table/reservasjon">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/6d9d7db8-1650-4e4b-a17c-93a6bc906b44/console.sql" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-13" />
+    <option name="y" value="-13" />
+    <option name="width" value="1557" />
+    <option name="height" value="840" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="database.console.LAST_STATE" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="2" weight="0.25302014" />
+      <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="1" />
+      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" />
+      <window_info anchor="bottom" id="Run" order="5" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="9" />
+      <window_info active="true" anchor="bottom" id="Database Console" order="10" visible="true" weight="0.20044053" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="right" id="Database" order="0" weight="0.26174498" />
+      <window_info anchor="right" id="Palette&#9;" order="1" />
+      <window_info anchor="right" id="SciView" order="2" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="0" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="2" weight="0.25302014" />
+      <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="1" />
+      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" />
+      <window_info anchor="bottom" id="Run" order="5" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="9" />
+      <window_info active="true" anchor="bottom" id="Database Console" order="10" visible="true" weight="0.20044053" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="right" id="Database" order="0" visible="true" weight="0.26174498" />
+      <window_info anchor="right" id="Palette&#9;" order="1" />
+      <window_info anchor="right" id="SciView" order="2" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="das://6d9d7db8-1650-4e4b-a17c-93a6bc906b44/schema/max/table/vare_kriterium">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://DATABASE/6d9d7db8-1650-4e4b-a17c-93a6bc906b44.SCHEMA:max">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>6d9d7db8-1650-4e4b-a17c-93a6bc906b44.SCHEMA:max</OriginalElement>
+          <nodes>
+            <node x="182.0" y="22.0">6d9d7db8-1650-4e4b-a17c-93a6bc906b44.TABLE:max.vurd_kriterium</node>
+            <node x="0.0" y="0.0">6d9d7db8-1650-4e4b-a17c-93a6bc906b44.TABLE:max.vurdering</node>
+            <node x="257.75" y="201.5">6d9d7db8-1650-4e4b-a17c-93a6bc906b44.TABLE:max.vare_kriterium</node>
+            <node x="43.5" y="190.0">6d9d7db8-1650-4e4b-a17c-93a6bc906b44.TABLE:max.vurd_score</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="6d9d7db8-1650-4e4b-a17c-93a6bc906b44.TABLE:max.vurd_score" target="6d9d7db8-1650-4e4b-a17c-93a6bc906b44.TABLE:max.vurdering">
+              <point x="-37.5" y="-48.0" />
+              <point x="0.0" y="70.0" />
+            </edge>
+            <edge source="6d9d7db8-1650-4e4b-a17c-93a6bc906b44.TABLE:max.vurd_score" target="6d9d7db8-1650-4e4b-a17c-93a6bc906b44.TABLE:max.vurd_kriterium">
+              <point x="37.5" y="-48.0" />
+              <point x="156.0" y="165.0" />
+              <point x="228.25" y="165.0" />
+              <point x="-46.25" y="48.0" />
+            </edge>
+            <edge source="6d9d7db8-1650-4e4b-a17c-93a6bc906b44.TABLE:max.vare_kriterium" target="6d9d7db8-1650-4e4b-a17c-93a6bc906b44.TABLE:max.vurd_kriterium">
+              <point x="0.0" y="-36.5" />
+              <point x="46.25" y="48.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="192.0" y="143.0" />
+          <SelectedNodes>
+            <node>6d9d7db8-1650-4e4b-a17c-93a6bc906b44.TABLE:max.vurdering</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Key columns</Category>
+            <Category>Columns</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://6d9d7db8-1650-4e4b-a17c-93a6bc906b44/schema/max/table/vurdering">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://6d9d7db8-1650-4e4b-a17c-93a6bc906b44/schema/eks2017/table/kurs">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://6d9d7db8-1650-4e4b-a17c-93a6bc906b44/schema/eks2017/table/sertifisering">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://6d9d7db8-1650-4e4b-a17c-93a6bc906b44/schema/eks2017/table/kurskjøring">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://DATABASE/6d9d7db8-1650-4e4b-a17c-93a6bc906b44.SCHEMA:eks2017">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>6d9d7db8-1650-4e4b-a17c-93a6bc906b44.SCHEMA:eks2017</OriginalElement>
+          <nodes>
+            <node x="0.0" y="309.0">6d9d7db8-1650-4e4b-a17c-93a6bc906b44.TABLE:eks2017.kompetanse</node>
+            <node x="216.0" y="0.0">6d9d7db8-1650-4e4b-a17c-93a6bc906b44.TABLE:eks2017.deltakelse</node>
+            <node x="0.0" y="124.0">6d9d7db8-1650-4e4b-a17c-93a6bc906b44.TABLE:eks2017.kurs</node>
+            <node x="1.5" y="0.0">6d9d7db8-1650-4e4b-a17c-93a6bc906b44.TABLE:eks2017.sertifisering</node>
+            <node x="217.9441624365482" y="256.1446700507614">6d9d7db8-1650-4e4b-a17c-93a6bc906b44.TABLE:eks2017.kurskjøring</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="6d9d7db8-1650-4e4b-a17c-93a6bc906b44.TABLE:eks2017.kurs" target="6d9d7db8-1650-4e4b-a17c-93a6bc906b44.TABLE:eks2017.sertifisering">
+              <point x="0.0" y="-70.0" />
+              <point x="0.0" y="37.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.9270588235294117" x="180.0" y="203.0" />
+          <SelectedNodes>
+            <node>6d9d7db8-1650-4e4b-a17c-93a6bc906b44.TABLE:eks2017.kurskjøring</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Key columns</Category>
+            <Category>Columns</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://6d9d7db8-1650-4e4b-a17c-93a6bc906b44/schema/eks2018/table/deltaker">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://6d9d7db8-1650-4e4b-a17c-93a6bc906b44/schema/eks2018/table/etappe">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://6d9d7db8-1650-4e4b-a17c-93a6bc906b44/schema/eks2018/table/lop">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://6d9d7db8-1650-4e4b-a17c-93a6bc906b44/schema/eks2018/table/lop_etappe">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://6d9d7db8-1650-4e4b-a17c-93a6bc906b44/schema/eks2018/table/sted">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://6d9d7db8-1650-4e4b-a17c-93a6bc906b44/schema/eks2018/table/tidtaking">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://6d9d7db8-1650-4e4b-a17c-93a6bc906b44/schema/eks2018/view/deltager_finnmark">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://DATABASE/6d9d7db8-1650-4e4b-a17c-93a6bc906b44.SCHEMA:eks2018">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>6d9d7db8-1650-4e4b-a17c-93a6bc906b44.SCHEMA:eks2018</OriginalElement>
+          <nodes>
+            <node x="252.49999999999997" y="0.0">6d9d7db8-1650-4e4b-a17c-93a6bc906b44.TABLE:eks2018.sted</node>
+            <node x="459.25" y="0.0">6d9d7db8-1650-4e4b-a17c-93a6bc906b44.VIEW:eks2018.delt</node>
+            <node x="92.74999999999997" y="460.0">6d9d7db8-1650-4e4b-a17c-93a6bc906b44.TABLE:eks2018.tidtaking</node>
+            <node x="0.0" y="667.0">6d9d7db8-1650-4e4b-a17c-93a6bc906b44.VIEW:eks2018.deltager_finnmark</node>
+            <node x="88.49999999999997" y="135.0">6d9d7db8-1650-4e4b-a17c-93a6bc906b44.TABLE:eks2018.lop</node>
+            <node x="257.5" y="124.0">6d9d7db8-1650-4e4b-a17c-93a6bc906b44.TABLE:eks2018.etappe</node>
+            <node x="0.0" y="292.0">6d9d7db8-1650-4e4b-a17c-93a6bc906b44.TABLE:eks2018.deltaker</node>
+            <node x="184.0" y="292.0">6d9d7db8-1650-4e4b-a17c-93a6bc906b44.TABLE:eks2018.lop_etappe</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="6d9d7db8-1650-4e4b-a17c-93a6bc906b44.TABLE:eks2018.lop_etappe" target="6d9d7db8-1650-4e4b-a17c-93a6bc906b44.TABLE:eks2018.etappe">
+              <point x="31.25" y="-59.0" />
+              <point x="277.75" y="267.0" />
+              <point x="330.0" y="267.0" />
+              <point x="0.0" y="59.0" />
+            </edge>
+            <edge source="6d9d7db8-1650-4e4b-a17c-93a6bc906b44.TABLE:eks2018.tidtaking" target="6d9d7db8-1650-4e4b-a17c-93a6bc906b44.TABLE:eks2018.deltaker">
+              <point x="-35.74999999999997" y="-81.0" />
+              <point x="128.5" y="435.0" />
+              <point x="82.0" y="435.0" />
+              <point x="0.0" y="59.0" />
+            </edge>
+            <edge source="6d9d7db8-1650-4e4b-a17c-93a6bc906b44.TABLE:eks2018.lop_etappe" target="6d9d7db8-1650-4e4b-a17c-93a6bc906b44.TABLE:eks2018.lop">
+              <point x="-31.25" y="-59.0" />
+              <point x="215.25" y="267.0" />
+              <point x="162.99999999999997" y="267.0" />
+              <point x="0.0" y="48.0" />
+            </edge>
+            <edge source="6d9d7db8-1650-4e4b-a17c-93a6bc906b44.TABLE:eks2018.etappe" target="6d9d7db8-1650-4e4b-a17c-93a6bc906b44.TABLE:eks2018.sted">
+              <point x="-36.25" y="-59.0" />
+              <point x="293.75" y="99.0" />
+              <point x="291.25" y="99.0" />
+              <point x="-38.75" y="37.0" />
+            </edge>
+            <edge source="6d9d7db8-1650-4e4b-a17c-93a6bc906b44.TABLE:eks2018.tidtaking" target="6d9d7db8-1650-4e4b-a17c-93a6bc906b44.TABLE:eks2018.lop_etappe">
+              <point x="35.75000000000003" y="-81.0" />
+              <point x="200.0" y="435.0" />
+              <point x="246.5" y="435.0" />
+              <point x="0.0" y="59.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.6138107416879797" x="328.0" y="497.0" />
+          <SelectedNodes>
+            <node>6d9d7db8-1650-4e4b-a17c-93a6bc906b44.VIEW:eks2018.delt</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Key columns</Category>
+            <Category>Columns</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://6d9d7db8-1650-4e4b-a17c-93a6bc906b44/schema/eks2018/view/delt">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://DATABASE/6d9d7db8-1650-4e4b-a17c-93a6bc906b44.SCHEMA:eks_2019">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>6d9d7db8-1650-4e4b-a17c-93a6bc906b44.SCHEMA:eks_2019</OriginalElement>
+          <nodes>
+            <node x="630.5" y="0.0">6d9d7db8-1650-4e4b-a17c-93a6bc906b44.VIEW:eks_2019.res_01_jan_14_16</node>
+            <node x="420.5" y="0.0">6d9d7db8-1650-4e4b-a17c-93a6bc906b44.VIEW:eks_2019.antall_res</node>
+            <node x="202.0" y="259.5">6d9d7db8-1650-4e4b-a17c-93a6bc906b44.TABLE:eks_2019.etasje</node>
+            <node x="0.0" y="813.0">6d9d7db8-1650-4e4b-a17c-93a6bc906b44.VIEW:eks_2019.res_23_mai</node>
+            <node x="103.99999999999999" y="394.0">6d9d7db8-1650-4e4b-a17c-93a6bc906b44.TABLE:eks_2019.rom</node>
+            <node x="91.99999999999997" y="584.0">6d9d7db8-1650-4e4b-a17c-93a6bc906b44.TABLE:eks_2019.reservasjon</node>
+            <node x="202.0" y="124.0">6d9d7db8-1650-4e4b-a17c-93a6bc906b44.TABLE:eks_2019.bygning</node>
+            <node x="0.0" y="248.0">6d9d7db8-1650-4e4b-a17c-93a6bc906b44.TABLE:eks_2019.romtype</node>
+            <node x="198.5" y="0.0">6d9d7db8-1650-4e4b-a17c-93a6bc906b44.TABLE:eks_2019.campus</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="6d9d7db8-1650-4e4b-a17c-93a6bc906b44.TABLE:eks_2019.etasje" target="6d9d7db8-1650-4e4b-a17c-93a6bc906b44.TABLE:eks_2019.bygning">
+              <point x="0.0" y="-36.5" />
+              <point x="0.0" y="37.0" />
+            </edge>
+            <edge source="6d9d7db8-1650-4e4b-a17c-93a6bc906b44.TABLE:eks_2019.rom" target="6d9d7db8-1650-4e4b-a17c-93a6bc906b44.TABLE:eks_2019.romtype">
+              <point x="-42.5" y="-70.0" />
+              <point x="146.5" y="369.0" />
+              <point x="91.0" y="369.0" />
+              <point x="0.0" y="48.0" />
+            </edge>
+            <edge source="6d9d7db8-1650-4e4b-a17c-93a6bc906b44.TABLE:eks_2019.bygning" target="6d9d7db8-1650-4e4b-a17c-93a6bc906b44.TABLE:eks_2019.campus">
+              <point x="0.0" y="-37.0" />
+              <point x="0.0" y="37.0" />
+            </edge>
+            <edge source="6d9d7db8-1650-4e4b-a17c-93a6bc906b44.TABLE:eks_2019.reservasjon" target="6d9d7db8-1650-4e4b-a17c-93a6bc906b44.TABLE:eks_2019.rom">
+              <point x="0.0" y="-92.0" />
+              <point x="0.0" y="70.0" />
+            </edge>
+            <edge source="6d9d7db8-1650-4e4b-a17c-93a6bc906b44.TABLE:eks_2019.rom" target="6d9d7db8-1650-4e4b-a17c-93a6bc906b44.TABLE:eks_2019.etasje">
+              <point x="42.5" y="-70.0" />
+              <point x="231.5" y="369.0" />
+              <point x="287.0" y="369.0" />
+              <point x="0.0" y="36.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.8" x="-161.0" y="436.0" />
+          <SelectedNodes>
+            <node>6d9d7db8-1650-4e4b-a17c-93a6bc906b44.TABLE:eks_2019.campus</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Key columns</Category>
+            <Category>Columns</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://6d9d7db8-1650-4e4b-a17c-93a6bc906b44/schema/eks_2019/view/res_01_jan_14_16">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/6d9d7db8-1650-4e4b-a17c-93a6bc906b44/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="30" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://6d9d7db8-1650-4e4b-a17c-93a6bc906b44/schema/eks_2019/table/etasje">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://6d9d7db8-1650-4e4b-a17c-93a6bc906b44/schema/eks_2019/table/rom">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://6d9d7db8-1650-4e4b-a17c-93a6bc906b44/schema/eks_2019/table/romtype">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://6d9d7db8-1650-4e4b-a17c-93a6bc906b44/schema/eks_2019/table/reservasjon">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://6d9d7db8-1650-4e4b-a17c-93a6bc906b44/schema/eks_2019/view/antall_res">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://6d9d7db8-1650-4e4b-a17c-93a6bc906b44/schema/eks_2019/view/res_23_mai">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://6d9d7db8-1650-4e4b-a17c-93a6bc906b44/schema/eks_2019/table/campus">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://6d9d7db8-1650-4e4b-a17c-93a6bc906b44/schema/eks_2019/table/bygning">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
